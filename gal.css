@@ -1,0 +1,16 @@
+	#img1{
+  		height: 50px;
+  	}
+
+  	body{
+  		margin-top:100px
+  	}
+
+  	.jumbotron{
+  		color: purple
+  	}
+
+  	i{
+  		font-size: 100px;
+  		color: black;
+  	}
