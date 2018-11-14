@@ -14,3 +14,12 @@
   		font-size: 100px;
   		color: black;
   	}
+
+    a {
+      color: red;
+    };
+
+   .img-thumbnail {
+      height:10px;
+      width:100px;
+    }
